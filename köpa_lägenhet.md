@@ -131,8 +131,6 @@ Det är mycket att tänka på när du ska flytta till ny bostad.
 
 -------------------------------------------------------------------------------
 
-
-
 # Granska en bostadsrättsförenings ekonomi
 
 ## Årsredovisning
@@ -159,11 +157,9 @@ Hur stor del av intäkterna äts upp av räntekostnader? Titta i årsredovisning
 #### Fastighetsunderhåll och renoveringsplaner
 Information om vilka underhålls- och renoveringsplaner som finns för fastigheten hittar du oftast i ett bifogat utdrag från underhållsplanen i förvaltningsberättelsen. Men hittar du det inte där kan du vända dig till styrelsen för att få veta mer.
 
-Underhållsplanen ska innehålla information om fastighetens status, vilka framtida underhållsåtgärder som finns, hur stora de är, vad de kommer att kosta, när de behöver genomföras och hur lång tid de tar. 
+Underhållsplanen ska innehålla information om fastighetens status, vilka framtida underhållsåtgärder som finns, hur stora de är, vad de kommer att kosta, när de behöver genomföras och hur lång tid de tar. Genom att titta på utdraget från underhållsplanen kan du också bilda dig en uppfattning om föreningens ekonomiska situation både nu och i framtiden. Dessutom underlättar en bra underhållsplan för en ny styrelse att snabbt bilda sig en uppfattning om fastighetens status.
 
-Genom att titta på utdraget från underhållsplanen kan du också bilda dig en uppfattning om föreningens ekonomiska situation både nu och i framtiden. Dessutom underlättar en bra underhållsplan för en ny styrelse att snabbt bilda sig en uppfattning om fastighetens status.
-
-Föreningen bör avsätta cirka 150kr per kvm yta för löpande underhåll, och det bör finnas en yttre reparationsfond med avsatt kapital för till exempel kommande stambyte, takomläggning eller fasadtvätt.
+Föreningen bör avsätta pengar (cirka 150kr per kvm yta?) för löpande underhåll, och det bör finnas en yttre reparationsfond med avsatt kapital för till exempel kommande stambyte, takomläggning eller fasadtvätt.
 
 #### Exempel på kostnader
 - Räntekostnader på föreningens lån
@@ -203,26 +199,8 @@ Trots att de ofta ges stor betydelse, är de egentligen ganska svåra att använ
 
 Tänk också på att det är den samlade bilden av flera nyckeltal som ger den mest rättvisande bilden av föreningen och bostadsrätten.
 
-### Resultatet
+## Resultatet
 En bostadsrättsförening har inte som syfte att gå med vinst, men den ska inte heller göra alltför stora förluster. Att titta på resultatet kan dock vara lurigt då det ibland kan se ut som om föreningen har ett negativt resultat trots att det inte är så.
-
-### AVSKRIVNINGAR
-Nästan alla materiella tillgångar förlorar i värde med tiden på grund av slitage och ålder. För att ta hänsyn till detta görs avskrivningar.
-
-Avskrivningarna redovisas i resultaträkningen som en kostnad, trots att föreningen egentligen inte har betalat ut några pengar. Har föreningen redovisat ett negativt resultat kan du därför jämföra resultatet i förhållande till avskrivningarna, innan du låter varningsklockorna ringa. Blir resultatet positivt när du räknar bort avskrivningarna innebär det negativa resultatet med avskrivningarna inräknade alltså att föreningen ändå har förstärkt sin kassa under året.
-
-### UNDERHÅLLSKOSTNADER
-Eftersom underhållskostnaderna kan variera stort mellan olika år för en bostadsrättförening kan dessa göra att resultatet skiljer sig från år till år. Därför kan du om resultatet är negativt också titta på om underhållskostnaderna har varit ovanligt stora. I noterna hittar du dessutom mer detaljerad information om vilket underhåll som har gjorts.
-
-### Skuldsättning
-Nästan alla bostadsrättsföreningar är belånade. I de flesta fall har lånen tagits i och med att föreningen köpte loss fastigheten från den dåvarande ägaren, eller för att finansiera dyra underhållsåtgärder.
-
-Ett vanligt mått när det kommer till skuldsättningen hos affärsdrivande företag är soliditeten. Soliditeten visar hur stor del av företagets/föreningens tillgångar som är finansierade av egna medel. Den ska dock tolkas med försiktighet för bostadsrättsföreningar. Titta då hellre på följande punkter:
-
-
-De flesta bostadsrättsföreningar har några skulder från när föreningen bildas. Hur stora skulder som finns kan påverka dina bostadskostnader. Ett fingervisande mått är att titta på skuldsättningen per kvadratmeter. I regel brukar man säga att under 5000 kr/kvm är bra och över 10 000 kr/kvm är mindre bra. Detta kan dock variera väldigt mycket.
-
-Föreningens belåning per kvadratmeter. Genom att dela föreningens skulder med total bostadsyta får man fram belåningsgradensom vanligtvis ligger mellan 0-12.000kr. Tumregeln är att allt under 5 000 kr/kvm är bra, över 10 000 kr/kvm bör man sätta sig in lite mer i varför belåningen är så hög. Nyproduktioner är till exempel vanligtvis högt belånade utan att ekonomin är vanskött, och belåningen kommer sänkas i takt med att föreningen amorterar.
 
 ## RÄNTEKOSTNADER
 Räntekostnaderna varierar utifrån hur högt belånad föreningen är, och du hittar dem i resultaträkningen på raden Räntekostnader. Ju lägre lån, desto mindre måste föreningen betala i räntekostnader, vilket i sin tur kan ge lägre månadsavgifter. Är lånen däremot höga blir föreningen känsligare för räntehöjningar och även små förändringar kan leda till stora skillnader i avgiften.
@@ -232,30 +210,28 @@ Genom att jämföra räntekostnaderna i förhållande till nettoomsättningen f�
 Såhär räknar du:
 - Räntekostnader / Nettoomsättning
 
-## Lån per kvadratmeter i bostadsrättsföreningen
+## Lån per kvadratmeter i bostadsrättsföreningen (skuldsättning)
 Olika föreningar har olika stora hus och olika stor boyta. För att kunna jämföra belåningen mellan olika bostadsrättsföreningar är belåning/kvm därför ett användbart nyckeltal. En belåning/kvm under 5000 kr anses vara bra, medan en belåning/kvm över 10 000 kr ses som mycket dåligt.
 
-Övriga tillgångar som till exempel värdepapper, hyresrätter och kommersiella lokaler kan göra att en förening får en högre belåning/kvm. Kolla därför upp föreningens övriga tillgångar om du tycker att den har en hög skuldsättning.
+- 0 – 5.000 kr/kvm i skuld är mycket bra.
+- 5.000 – 10.000 kr/kvm är bra.
+- 10.000 – 15.000 kr/kvm är okej om föreningens fastighet är i mycket gott skick.
+- 15.000 – 20.000 kr/kvm är en högt belånad bostadsrättsförening.
+- 20.000 kr/kvm eller mer är inte alls bra, undvik dessa föreningar.
+
+Höga lån innebär att föreningen har höga räntekostnader. Om räntan stiger kan föreningen tvingas att höja hyran/månadsavgiften kraftigt för att kunna betala sina räntor.
 
 Såhär räknar du ut belåning/kvm:
 - Långfristiga skulder / Total bostadsyta
 
-# Lån per kvadratmeter i bostadsrättsföreningen
-Den viktigaste måttet enligt oss är lån/kvm. Hur stora är föreningens totala skulder delat på föreningens totala yta? Om föreningen har 10 miljoner i lån och har en totalyta på 600 kvm så har föreningen 16 666 kr/kvm i skuld. Det är högt.
+*När de stora byggbolagen (tex JM och Skanska) bygger och bildar nya bostadsrättsföreningar idag så brukar de lägga ca 10.000-13.000 kr per kvadratmeter i skuld i föreningarna. Det kan man använda lite som utgångspunkt när man kikar på andra föreningar. Äldre föreningar har oftast lyckats amortera ner sina skulder under årens lopp vilket gör att de har en lägre skuldsättning än nya föreningar. Om föreningen är dåligt skött så kan det dock ha slarvats med amorteringarna och då har man en gammal förening med kommande stora underhåll som samtidigt har hög skuldsättningsgrad. Det kan bli en stor ekonomisk smäll för dig som köper en bostad i den föreningen.*
 
-När de stora byggbolagen (tex JM och Skanska) bygger och bildar nya bostadsrättsföreningar idag så brukar de lägga ca 10.000-13.000 kr per kvadratmeter i skuld i föreningarna. Det kan man använda lite som utgångspunkt när man kikar på andra föreningar. Äldre föreningar har oftast lyckats amortera ner sina skulder under årens lopp vilket gör att de har en lägre skuldsättning än nya föreningar. Om föreningen är dåligt skött så kan det dock ha slarvats med amorteringarna och då har man en gammal förening med kommande stora underhåll som samtidigt har hög skuldsättningsgrad. Det kan bli en stor ekonomisk smäll för dig som köper en bostad i den föreningen.
+Övriga tillgångar som till exempel värdepapper, hyresrätter och kommersiella lokaler kan göra att en förening får en högre belåning/kvm. Kolla därför upp föreningens övriga tillgångar om du tycker att den har en hög skuldsättning.
 
-0 – 5.000 kr/kvm i skuld är mycket bra.
-5.000 – 10.000 kr/kvm är bra.
-10.000 – 15.000 kr/kvm är okej om föreningens fastighet är i mycket gott skick.
-15.000 – 20.000 kr/kvm är en högt belånad bostadsrättsförening.
-20.000 kr/kvm eller mer är inte alls bra, undvik dessa föreningar.
-Höga lån innebär att föreningen har höga räntekostnader. Om räntan stiger kan föreningen tvingas att höja hyran/månadsavgiften kraftigt för att kunna betala sina räntor.
+## UNDERHÅLLSKOSTNADER
+Eftersom underhållskostnaderna kan variera stort mellan olika år för en bostadsrättförening kan dessa göra att resultatet skiljer sig från år till år. Därför kan du om resultatet är negativt också titta på om underhållskostnaderna har varit ovanligt stora. I noterna hittar du dessutom mer detaljerad information om vilket underhåll som har gjorts.
 
-
-
-
-### SKULDKVOT
+## SKULDKVOT
 Också skuldkvoten kan ge dig en riktlinje för hur tungt belånad föreningen är. En skuldkvot under 5 är bra, ligger den på mellan 10 till 15 är det dåligt och över 15 visar på att bostadsrättsföreningens ekonomiska situation är ohållbar.
 
 Räkna ut skuldkvoten:
@@ -264,13 +240,11 @@ Räkna ut skuldkvoten:
 Beräkna föreningens skuldsättning
 https://www.ekonomifokus.se/bostad/bostadsrattsforening/jamforaanalysera-bostadsrattsforeningar-bra-eller-dalig-brf
 
-
 ## Soliditet. 
-Ett vanligt nyckeltal för bostadsrättsföreningar är soliditeten. Den beräknas genom eget kapital/totalt kapital. Hög soliditet räknas ofta som bra, dock kan det bero på föreningens ålder och andra faktorer. Soliditeten är inte bra att fokusera för mycket på, däremot är det bra att veta vad den innebär.
+Ett vanligt nyckeltal för bostadsrättsföreningar är soliditeten. Soliditeten visar hur stor del av företagets/föreningens tillgångar som är finansierade av egna medel. Den beräknas genom eget kapital/totalt kapital. Hög soliditet räknas ofta som bra, dock kan det bero på föreningens ålder och andra faktorer. Soliditeten är inte bra att fokusera för mycket på, däremot är det bra att veta vad den innebär.
 
 ## Likviditet. 
 Likviditeten beräknas genom omsättningstillgångar/kortfristiga skulder. Det är en indikation på om föreningen kan betala sina skulder. Precis som med soliditet ska du inte tänka för mycket på likviditeten men det kan vara bra att känna till den.
-
 
 Föreningens likviditet är ett mått på om den klarar av att betala sina kortfristiga skulder. Till de kortfristiga skulderna räknas framförallt löpande räkningar, såsom vatten, värme och el, och andra betalningar som behöver göras inom den närmaste framtiden. Hur stora föreningens kortfristiga skulder är och vilka tillgångar den har för att betala dem hittar du i balansräkningen. Tumregeln är att likviditeten ska vara över 1 för att föreningen ska ha tillräckligt med kapital för att betala sina räkningar.
 
@@ -278,7 +252,11 @@ Såhär räknar du ut likviditeten:
 
 - Omsättningstillgångar / Kortfristiga skulder
 
- 
+## AVSKRIVNINGAR
+Nästan alla materiella tillgångar förlorar i värde med tiden på grund av slitage och ålder. För att ta hänsyn till detta görs avskrivningar.
+
+Avskrivningarna redovisas i resultaträkningen som en kostnad, trots att föreningen egentligen inte har betalat ut några pengar. Har föreningen redovisat ett negativt resultat kan du därför jämföra resultatet i förhållande till avskrivningarna, innan du låter varningsklockorna ringa. Blir resultatet positivt när du räknar bort avskrivningarna innebär det negativa resultatet med avskrivningarna inräknade alltså att föreningen ändå har förstärkt sin kassa under året.
+
 -------------------------------------------------------------------------
 # Appendix
  

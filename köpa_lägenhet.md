@@ -57,7 +57,7 @@ Passa på att ställa frågor till mäklaren när du är på visning eller till 
 #### 4.b Granska föreningens ekonomi
 Då ett köp av en bostadsrätt inneäbr att man äger en andel i bostadsrättsföreningen är det viktigt att bilda sig en uppfattning om föreningens ekonomiska situation. 
 
-- Kolla årsredovisningen (detaljerat exempel i slutet av den här texten)
+- Kolla årsredovisningen som är en sammanställning av bostadsrättsföreningens ekonomiska ställning och resultat från året som gått (detaljerat exempel i slutet av den här texten)
 - Granska den ekonomiska planen, särskilt om det är en nybildad förening. Där får du en överblick över investeringar, lån och ekonomisk känslighet.
 - Titta på underhållsplanen. Femårsplaner är vanligt och ett bra tecken på att föreningen tänker långsiktigt.
 - Finns det många lokaler? Det ger bra intäkter, men det är också en risk om de inte går att hyra ut. Har föreningen många lokaler kan det innebära att den är oäkta, vilket innebär andra regler.
@@ -136,78 +136,7 @@ Det är mycket att tänka på när du ska flytta till ny bostad.
 
 
 
-10 saker att titta på när du granskar en bostadsrättsförenings ekonomi
-Årsredovisning. Varje år ska bostadsrättsföreningen upprätta en årsredovisning med förvaltningsberättelse, resultat- och balansräkning. Den ska signeras av styrelsen och godkännas på föreningsstämman. När du ska granska en bostadsrättsförenings ekonomi är det årsredovisningen du bör titta igenom.
-Månadsavgift. Samtliga medlemmar i en bostadsrättsförening betalar en medlemsavgift. Avgifterna som föreningen ska få in ska användas för fastighetsunderhåll och till en viss del framtida underhåll. Ju större månadsavgift desto högre blir dina månadskostnader. En hög månadsavgift behöver inte innebära att bostadsrättsföreningen har dålig ekonomi. Det kan även innebära att de har en stor budget för framtida underhållskostnader. Månadsavgiften måste därför granskas tillsammans med andra tal.
-Hyresintäkter. Vissa bostadsrättsföreningar har lokaler eller garage som de kan hyra ut. Genom att få regelbundna intäkter kan det gå att hålla nere månadsavgifterna.
-Kostnader. En bostadsrättsförening med stora kostnader kan innebär att du senare måste betala mer i månadsavgift. De kostnader föreningen kan ha innefattar bland annat driftkostnader, reparation och underhåll, räntekostnader och även avskrivningar.
-Byggår. Ett gammalt hus behöver nödvändigtvis inte vara en dålig investering. Däremot kan det vara bra att ha koll på byggåret så att du får en uppfattning om vilka reparationer som krävas.
-Stambyte. Ett stambyte innebär att rör och ledningar byts ut. Det måste i regel göras vart fyrtionde till femtionde år. Det är en väldigt omfattande process som påverkar främst badrum och kök men ibland även andra delar av bostaden. Ska du köpa en bostadsrätt är det bra att fråga när stambytet genomförts och om det finns några planer på när det ska göras igen.
-Skuldrättning. De flesta bostadsrättsföreningar har några skulder från när föreningen bildas. Hur stora skulder som finns kan påverka dina bostadskostnader. Ett fingervisande mått är att titta på skuldsättningen per kvadratmeter. I regel brukar man säga att under 5000 kr/kvm är bra och över 10 000 kr/kvm är mindre bra. Detta kan dock variera väldigt mycket.
-Soliditet. Ett vanligt nyckeltal för bostadsrättsföreningar är soliditeten. Den beräknas genom eget kapital/totalt kapital. Hög soliditet räknas ofta som bra, dock kan det bero på föreningens ålder och andra faktorer. Soliditeten är inte bra att fokusera för mycket på, däremot är det bra att veta vad den innebär.
-Likviditet. Likviditeten beräknas genom omsättningstillgångar/kortfristiga skulder. Det är en indikation på om föreningen kan betala sina skulder. Precis som med soliditet ska du inte tänka för mycket på likviditeten men det kan vara bra att känna till den.
-Äkta eller oäkta bostadsrättsförening. En bostadsrättsförening benämns som äkta om den till minst 60 % sysslar med ”kvalificerad verksamhet”. Detta är mest intressant ur skattesynpunkt för dig som medlem. Du kan läsa mer om äkta och oäkta bostadsrättföreningar på vår sida om ämnet.
-
-
-Här har vi samlat några delar av en föreningens ekonomi som du bör ha koll på:
-
-Analysera avgiften. Låg avgift beror i idealfall på att fastigheten har låga driftskostnader, är lågt belånad och att en tilltagen reparationsfond redan finns på plats. Men, det kan också bero på att föreningen valt att inte amortera, att man underskattar kommande renoveringsbehov och inte heller tagit höjd för ett högre ränteläge. Är fastigheten högt belånad men har en låg avgift kan avgiften komma att höjas rejält om räntorna höjs.
-Föreningens belåning per kvadratmeter. Genom att dela föreningens skulder med total bostadsyta får man fram belåningsgradensom vanligtvis ligger mellan 0-12.000kr. Tumregeln är att allt under 5 000 kr/kvm är bra, över 10 000 kr/kvm bör man sätta sig in lite mer i varför belåningen är så hög. Nyproduktioner är till exempel vanligtvis högt belånade utan att ekonomin är vanskött, och belåningen kommer sänkas i takt med att föreningen amorterar.
-Hur stor del av intäkterna äts upp av räntekostnader? Titta i årsredovisningens resultaträkning. Leta upp räntekostnader och jämför med nettoomsättningen (intäkterna). Var försiktig om räntekostnaderna uppgår mot 50%. Vid nyproduktion kan det vara upp till 40%, den kostnaden kommer att minska över tid. Annars ligger räntekostnaderna i en välmående förening som funnits ett tag på uppåt 20%.
-Hur länge gäller föreningens avtal för tomträtt? Tomträtt kallas det avtal man har med staden för rätten att använda marken som fastigheten står på. För det betalar tomträttshavaren en årlig avgiftsom kallas tomträttsavgäld till staden. Det är viktigt att fråga om föreningen äger marken som huset står på eller om det är tomträtt och föreningen därigenom har kostnader för hyra av marken. Undersök om avtalet för tomträtten snart går ut och hur eventuell omförhandling kan påverka föreningens ekonomi.
-Finns det planer på omfattande renoveringar framöver? Föreningen bör avsätta cirka 150kr per kvm yta för löpande underhåll, och det bör finnas en yttre reparationsfond med avsatt kapital för till exempel kommande stambyte, takomläggning eller fasadtvätt.
-
-Räntekostnader på föreningens lån
-Underhållskostnader för fastigheten
-Driftkostnader för föreningens byggnader
-Gräsklippning
-Snöröjning
-Underhåll av parkeringar
-Ersättningar till styrelsen
- Förvaltningsavgift till tex HSB eller Riksbyggen
-
-Lån per kvadratmeter i bostadsrättsföreningen
-Den viktigaste måttet enligt oss är lån/kvm. Hur stora är föreningens totala skulder delat på föreningens totala yta? Om föreningen har 10 miljoner i lån och har en totalyta på 600 kvm så har föreningen 16 666 kr/kvm i skuld. Det är högt.
-
-När de stora byggbolagen (tex JM och Skanska) bygger och bildar nya bostadsrättsföreningar idag så brukar de lägga ca 10.000-13.000 kr per kvadratmeter i skuld i föreningarna. Det kan man använda lite som utgångspunkt när man kikar på andra föreningar. Äldre föreningar har oftast lyckats amortera ner sina skulder under årens lopp vilket gör att de har en lägre skuldsättning än nya föreningar. Om föreningen är dåligt skött så kan det dock ha slarvats med amorteringarna och då har man en gammal förening med kommande stora underhåll som samtidigt har hög skuldsättningsgrad. Det kan bli en stor ekonomisk smäll för dig som köper en bostad i den föreningen.
-
-0 – 5.000 kr/kvm i skuld är mycket bra.
-5.000 – 10.000 kr/kvm är bra.
-10.000 – 15.000 kr/kvm är okej om föreningens fastighet är i mycket gott skick.
-15.000 – 20.000 kr/kvm är en högt belånad bostadsrättsförening.
-20.000 kr/kvm eller mer är inte alls bra, undvik dessa föreningar.
-Höga lån innebär att föreningen har höga räntekostnader. Om räntan stiger kan föreningen tvingas att höja hyran/månadsavgiften kraftigt för att kunna betala sina räntor.
-
-### Beräkna föreningens skuldsättning
-Uppgifterna finns oftast i föreningens årsredovisning
-https://www.ekonomifokus.se/bostad/bostadsrattsforening/jamforaanalysera-bostadsrattsforeningar-bra-eller-dalig-brf
-
- 
- 
- 
-### Att tolka årsredovisningen för en bostadsrättsförening
-Har du frågor om ekonomin i en bostadsrättsförening inför att du ska köpa en bostadsrätt eller vill du ha koll på din bostadsrättsförenings ekonomi inför årsstämman? Då ska du titta i föreningens årsredovisning. 
-
-#### Årsredovisningens delar
-Årsredovisningen för en bostadsrättsförening (BRF) är en sammanställning av föreningens ekonomiska ställning och resultat från året som gått. Detta redovisas både i ord och i siffror. Det är styrelsen som har ansvar för att sätta ihop årsredovisningen efter ett avslutat räkenskapsår, och den måste sedan behandlas av medlemmarna i föreningen på årsstämman.
-
-Alla bostadsrättsföreningar är skyldiga att lämna in en årsredovisning enligt Årsredovisningslagen. Enligt lagen måste årsredovisningen innehålla delarna **förvaltningsberättelse**, **resultaträkning**, **balansräkning** och eventuella noter.
-
-#### Förvaltningsberättelse
-I förvaltningsberättelsen hittar du bland annat en allmän beskrivning av bostadsrättsföreningen och fastigheten. Den innehåller också en sammanfattning som styrelsen skriver där de med ord och utvalda nyckeltal lyfter fram viktig information från det gångna räkenskapsåret. Dessutom hittar du även ett förslag på resultatdisposition och om föreningen har en underhållsplan i förvaltningsberättelsen.
-
-I förvaltningsberättelsen står också antalet medlemmar och bostäder i föreningen, vilken eller vilka fastigheter föreningen äger och vilka som är styrelseledamöter.
-
-#### Resultaträkning
-I resultaträkningen kan du se om bostadsrättsföreningen har gått med antingen vinst eller förlust under räkenskapsåret. Du kan också se var föreningens intäkter kommit ifrån, och vad som har kostat pengar. Genom att jämföra detta med föregående år kan du få en uppfattning om vad som har påverkat resultatet.
-
-#### Balansräkning
-Balansräkningen är en spegling av bostadsrättsföreningens ekonomiska status vid en viss tidpunkt, i en årsredovisning är det alltid räkenskapsårets sista dag. Men eftersom föreningen löpande gör olika betalningar förändras posterna i balansräkningen hela tiden.
-
-I balansräkningen kan se du vilka tillgångar och hur stora skulder föreningen har. Eftersom dessa redovisas var för sig är det lätt att se vad som är tillgångar och vad som är skulder. Du hittar också hur stort det egna kapitalet är, alltså skillnaden mellan tillgångar och övriga skulder.
-
-#### Noter
-I vissa fall räcker inte informationen om de olika posterna i resultat- och balansräkningen till för att förklara vad siffrorna innebär. För att du som läser årsredovisningen ändå ska förstå dem finns noter som är mer specifika förklaringar till vad som finns ”bakom siffrorna”.
+# Granska en bostadsrättsförenings ekonomi
 
 #### Nyckeltal och andra viktiga siffror i årsredovisningen för en bostadsrättsförening
 Ofta läggs stor vikt vid nyckeltalen när det pratas om ekonomin i en bostadsrättförening, och om en bostadsrätt är prisvärd eller inte. De fyra nyckeltal som ofta lyfts fram i tidningar är försäljningspris per kvadratmeter, årsavgift per kvadratmeter, belåning per kvadratmeter och taxeringsvärde per kvadratmeter.
@@ -264,12 +193,62 @@ En hög avgift behöver dock inte innebära att föreningen har en dålig ekonom
 
 Dessutom skiljer det sig mellan olika föreningar vad som ingår i månadsavgiften. Ingår till exempel bredband, TV-utbud, värme och vatten, eller tillkommer de här kostnaderna utöver avgiften?
 
+
+
+
+## Årsredovisning. 
+Varje år ska bostadsrättsföreningen upprätta en årsredovisning med förvaltningsberättelse, resultat- och balansräkning. Den ska signeras av styrelsen och godkännas på föreningsstämman. När du ska granska en bostadsrättsförenings ekonomi är det årsredovisningen du bör titta igenom.
+
+## Månadsavgift. 
+Samtliga medlemmar i en bostadsrättsförening betalar en medlemsavgift. Avgifterna som föreningen ska få in ska användas för fastighetsunderhåll och till en viss del framtida underhåll. Ju större månadsavgift desto högre blir dina månadskostnader. En hög månadsavgift behöver inte innebära att bostadsrättsföreningen har dålig ekonomi. Det kan även innebära att de har en stor budget för framtida underhållskostnader. Månadsavgiften måste därför granskas tillsammans med andra tal.
+
+Analysera avgiften. Låg avgift beror i idealfall på att fastigheten har låga driftskostnader, är lågt belånad och att en tilltagen reparationsfond redan finns på plats. Men, det kan också bero på att föreningen valt att inte amortera, att man underskattar kommande renoveringsbehov och inte heller tagit höjd för ett högre ränteläge. Är fastigheten högt belånad men har en låg avgift kan avgiften komma att höjas rejält om räntorna höjs.
+
+## Hyresintäkter. 
+Vissa bostadsrättsföreningar har lokaler eller garage som de kan hyra ut. Genom att få regelbundna intäkter kan det gå att hålla nere månadsavgifterna.
+
+## Kostnader. 
+En bostadsrättsförening med stora kostnader kan innebär att du senare måste betala mer i månadsavgift. De kostnader föreningen kan ha innefattar bland annat driftkostnader, reparation och underhåll, räntekostnader och även avskrivningar.
+
+Hur stor del av intäkterna äts upp av räntekostnader? Titta i årsredovisningens resultaträkning. Leta upp räntekostnader och jämför med nettoomsättningen (intäkterna). Var försiktig om räntekostnaderna uppgår mot 50%. Vid nyproduktion kan det vara upp till 40%, den kostnaden kommer att minska över tid. Annars ligger räntekostnaderna i en välmående förening som funnits ett tag på uppåt 20%.
+
+Finns det planer på omfattande renoveringar framöver? 
+
+#### Underhåll
+Föreningen bör avsätta cirka 150kr per kvm yta för löpande underhåll, och det bör finnas en yttre reparationsfond med avsatt kapital för till exempel kommande stambyte, takomläggning eller fasadtvätt.
+
+- Räntekostnader på föreningens lån
+- Underhållskostnader för fastigheten
+- Driftkostnader för föreningens byggnader
+- Gräsklippning
+- Snöröjning
+- Underhåll av parkeringar
+- Ersättningar till styrelsen
+
 Fastighetsunderhåll och renoveringsplaner
 Information om vilka underhålls- och renoveringsplaner som finns för fastigheten hittar du oftast i ett bifogat utdrag från underhållsplanen i förvaltningsberättelsen. Men hittar du det inte där kan du vända dig till styrelsen för att få veta mer.
 
 Underhållsplanen ska innehålla information om fastighetens status, vilka framtida underhållsåtgärder som finns, hur stora de är, vad de kommer att kosta, när de behöver genomföras och hur lång tid de tar. Ju bättre genomarbetad underhållsplanen är, desto mindre är risken att föreningen behöver genomföra akuta och kostsamma reparationer som kan påverka avgiften.
 
 Genom att titta på utdraget från underhållsplanen kan du också bilda dig en uppfattning om föreningens ekonomiska situation både nu och i framtiden. Dessutom underlättar en bra underhållsplan för en ny styrelse att snabbt bilda sig en uppfattning om fastighetens status.
+
+
+## Byggår. 
+Ett gammalt hus behöver nödvändigtvis inte vara en dålig investering. Däremot kan det vara bra att ha koll på byggåret så att du får en uppfattning om vilka reparationer som krävas.
+
+## Stambyte. 
+Ett stambyte innebär att rör och ledningar byts ut. Det måste i regel göras vart fyrtionde till femtionde år. Det är en väldigt omfattande process som påverkar främst badrum och kök men ibland även andra delar av bostaden. Ska du köpa en bostadsrätt är det bra att fråga när stambytet genomförts och om det finns några planer på när det ska göras igen.
+
+## Skuldrättning. 
+De flesta bostadsrättsföreningar har några skulder från när föreningen bildas. Hur stora skulder som finns kan påverka dina bostadskostnader. Ett fingervisande mått är att titta på skuldsättningen per kvadratmeter. I regel brukar man säga att under 5000 kr/kvm är bra och över 10 000 kr/kvm är mindre bra. Detta kan dock variera väldigt mycket.
+
+Föreningens belåning per kvadratmeter. Genom att dela föreningens skulder med total bostadsyta får man fram belåningsgradensom vanligtvis ligger mellan 0-12.000kr. Tumregeln är att allt under 5 000 kr/kvm är bra, över 10 000 kr/kvm bör man sätta sig in lite mer i varför belåningen är så hög. Nyproduktioner är till exempel vanligtvis högt belånade utan att ekonomin är vanskött, och belåningen kommer sänkas i takt med att föreningen amorterar.
+
+## Soliditet. 
+Ett vanligt nyckeltal för bostadsrättsföreningar är soliditeten. Den beräknas genom eget kapital/totalt kapital. Hög soliditet räknas ofta som bra, dock kan det bero på föreningens ålder och andra faktorer. Soliditeten är inte bra att fokusera för mycket på, däremot är det bra att veta vad den innebär.
+
+## Likviditet. 
+Likviditeten beräknas genom omsättningstillgångar/kortfristiga skulder. Det är en indikation på om föreningen kan betala sina skulder. Precis som med soliditet ska du inte tänka för mycket på likviditeten men det kan vara bra att känna till den.
 
 Likviditet
 Föreningens likviditet är ett mått på om den klarar av att betala sina kortfristiga skulder. Till de kortfristiga skulderna räknas framförallt löpande räkningar, såsom vatten, värme och el, och andra betalningar som behöver göras inom den närmaste framtiden. Hur stora föreningens kortfristiga skulder är och vilka tillgångar den har för att betala dem hittar du i balansräkningen. Tumregeln är att likviditeten ska vara över 1 för att föreningen ska ha tillräckligt med kapital för att betala sina räkningar.
@@ -278,10 +257,8 @@ Såhär räknar du ut likviditeten:
 
 Omsättningstillgångar / Kortfristiga skulder
 
-Tomträtt eller ägd tomt
-Äger bostadsrättsföreningen tomten som fastigheterna står på, eller är det en tomträtt som kommunen äger? Om det är en tomträtt har föreningen i de flesta fall ett flerårigt avtal med kommunen om hur stor avgiften för tomträtten ska vara, men när avtalet går ut kan tomträttsavgälden förändras. Höjs avgiften när ett nytt avtal tecknas kan medlemmarnas avgifter också behöva höjas för att föreningen ska ha råd att betala kommunen.
-
-För att ta reda på om det är en tomträtt eller en ägd tomt ska du titta i resultaträkningen eller i noterna. Är det en tomträtt kommer det att finnas en post för tomträttsavgälden i resultaträkningen.
+## Äkta eller oäkta bostadsrättsförening. 
+En bostadsrättsförening benämns som äkta om den till minst 60 % sysslar med ”kvalificerad verksamhet”. Detta är mest intressant ur skattesynpunkt för dig som medlem. Du kan läsa mer om äkta och oäkta bostadsrättföreningar på vår sida om ämnet.
 
 Äkta eller oäkta bostadsrättsförening
 Om bostadsrättsföreningen är en äkta eller en oäkta förening kan du ta reda på både med hjälp av resultaträkningen och balansräkningen. I resultaträkningen kollar du på skattekostnaderna. Är det en äkta förening kommer det inte att finnas några skattekostnader utöver skatten på ränteintäkter, medan en oäkta förening även har andra skattekostnader. I balansräkningen jämför du uppdelningen av taxeringsvärde mellan bostäder och lokaler, minst 60 % ska vara bostäder för att det ska betraktas som en äkta förening.
@@ -290,12 +267,60 @@ Att ha koll på om föreningen är äkta eller oäkta är viktigt när det komme
 
 Många oäkta föreningar kan ha låga månadsavgifter eftersom de har betydande intäkter från dem som hyr lokaler i fastigheten. Det är därför lätt att tänka att det är en fördel, men i slutändan kan det ändå bli dyrare att bo i en oäkta förening just på grund av skattereglerna.
 
+## Äger föreningen markent huset står på?
+Hur länge gäller föreningens avtal för tomträtt? Tomträtt kallas det avtal man har med staden för rätten att använda marken som fastigheten står på. För det betalar tomträttshavaren en årlig avgiftsom kallas tomträttsavgäld till staden. Det är viktigt att fråga om föreningen äger marken som huset står på eller om det är tomträtt och föreningen därigenom har kostnader för hyra av marken. Undersök om avtalet för tomträtten snart går ut och hur eventuell omförhandling kan påverka föreningens ekonomi.
+
 Äger föreningen marken som huset står på eller är det tomträtt?
 Det är en klar fördel om föreningen äger marken eftersom man då inte betalar någon hyra för till markägaren. Har föreningen tomträtt hyr de marken istället för att äga den. Ta i så fall reda på när avtalet för tomträtten går ut och hur föreningens ekonomi skulle påverkas av en eventuell omförhandling. En plötslig höjning av hyran av marken kan innebära att föreningen måste höja medlemmarnas månadsavgift.
 
+----------------------------------------------------------------------------------
+----------------------------------------------------------------------------------
 
 
 
+
+Lån per kvadratmeter i bostadsrättsföreningen
+Den viktigaste måttet enligt oss är lån/kvm. Hur stora är föreningens totala skulder delat på föreningens totala yta? Om föreningen har 10 miljoner i lån och har en totalyta på 600 kvm så har föreningen 16 666 kr/kvm i skuld. Det är högt.
+
+När de stora byggbolagen (tex JM och Skanska) bygger och bildar nya bostadsrättsföreningar idag så brukar de lägga ca 10.000-13.000 kr per kvadratmeter i skuld i föreningarna. Det kan man använda lite som utgångspunkt när man kikar på andra föreningar. Äldre föreningar har oftast lyckats amortera ner sina skulder under årens lopp vilket gör att de har en lägre skuldsättning än nya föreningar. Om föreningen är dåligt skött så kan det dock ha slarvats med amorteringarna och då har man en gammal förening med kommande stora underhåll som samtidigt har hög skuldsättningsgrad. Det kan bli en stor ekonomisk smäll för dig som köper en bostad i den föreningen.
+
+0 – 5.000 kr/kvm i skuld är mycket bra.
+5.000 – 10.000 kr/kvm är bra.
+10.000 – 15.000 kr/kvm är okej om föreningens fastighet är i mycket gott skick.
+15.000 – 20.000 kr/kvm är en högt belånad bostadsrättsförening.
+20.000 kr/kvm eller mer är inte alls bra, undvik dessa föreningar.
+Höga lån innebär att föreningen har höga räntekostnader. Om räntan stiger kan föreningen tvingas att höja hyran/månadsavgiften kraftigt för att kunna betala sina räntor.
+
+### Beräkna föreningens skuldsättning
+Uppgifterna finns oftast i föreningens årsredovisning
+https://www.ekonomifokus.se/bostad/bostadsrattsforening/jamforaanalysera-bostadsrattsforeningar-bra-eller-dalig-brf
+
+ 
+ 
+ 
+### Att tolka årsredovisningen för en bostadsrättsförening
+Har du frågor om ekonomin i en bostadsrättsförening inför att du ska köpa en bostadsrätt eller vill du ha koll på din bostadsrättsförenings ekonomi inför årsstämman? Då ska du titta i föreningens årsredovisning. 
+
+#### Årsredovisningens delar
+Årsredovisningen för en bostadsrättsförening (BRF) är en sammanställning av föreningens ekonomiska ställning och resultat från året som gått. Detta redovisas både i ord och i siffror. Det är styrelsen som har ansvar för att sätta ihop årsredovisningen efter ett avslutat räkenskapsår, och den måste sedan behandlas av medlemmarna i föreningen på årsstämman.
+
+Alla bostadsrättsföreningar är skyldiga att lämna in en årsredovisning enligt Årsredovisningslagen. Enligt lagen måste årsredovisningen innehålla delarna **förvaltningsberättelse**, **resultaträkning**, **balansräkning** och eventuella noter.
+
+#### Förvaltningsberättelse
+I förvaltningsberättelsen hittar du bland annat en allmän beskrivning av bostadsrättsföreningen och fastigheten. Den innehåller också en sammanfattning som styrelsen skriver där de med ord och utvalda nyckeltal lyfter fram viktig information från det gångna räkenskapsåret. Dessutom hittar du även ett förslag på resultatdisposition och om föreningen har en underhållsplan i förvaltningsberättelsen.
+
+I förvaltningsberättelsen står också antalet medlemmar och bostäder i föreningen, vilken eller vilka fastigheter föreningen äger och vilka som är styrelseledamöter.
+
+#### Resultaträkning
+I resultaträkningen kan du se om bostadsrättsföreningen har gått med antingen vinst eller förlust under räkenskapsåret. Du kan också se var föreningens intäkter kommit ifrån, och vad som har kostat pengar. Genom att jämföra detta med föregående år kan du få en uppfattning om vad som har påverkat resultatet.
+
+#### Balansräkning
+Balansräkningen är en spegling av bostadsrättsföreningens ekonomiska status vid en viss tidpunkt, i en årsredovisning är det alltid räkenskapsårets sista dag. Men eftersom föreningen löpande gör olika betalningar förändras posterna i balansräkningen hela tiden.
+
+I balansräkningen kan se du vilka tillgångar och hur stora skulder föreningen har. Eftersom dessa redovisas var för sig är det lätt att se vad som är tillgångar och vad som är skulder. Du hittar också hur stort det egna kapitalet är, alltså skillnaden mellan tillgångar och övriga skulder.
+
+#### Noter
+I vissa fall räcker inte informationen om de olika posterna i resultat- och balansräkningen till för att förklara vad siffrorna innebär. För att du som läser årsredovisningen ändå ska förstå dem finns noter som är mer specifika förklaringar till vad som finns ”bakom siffrorna”.
 
 
 
